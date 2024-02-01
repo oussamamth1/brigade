@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103705548839",
+    "project_id": "brigade-acb1d",
+    "storage_bucket": "brigade-acb1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103705548839:android:aa8466131a0b116a625602",
+        "android_client_info": {
+          "package_name": "com.example.brigaderouge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103705548839-rdj6gkcm68g82mh2ldtv5ch02q98vgdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brigaderouge",
+            "certificate_hash": "ccc2602ff9abecd8458c56d2fbe5955d606eaf06"
+          }
+        },
+        {
+          "client_id": "103705548839-j6qoc9b238q7lpm3p5ikr4opvtfmdiqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2t0Ta1pR6pOVXZl8y1_Wl7oX1o1YSf4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103705548839-j6qoc9b238q7lpm3p5ikr4opvtfmdiqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
